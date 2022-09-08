@@ -1,0 +1,8 @@
+easyocr
+pyautogui
+Pillow
+numpy
+pynput
+sklearn
+matplotlib
+pyautogui
